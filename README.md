@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Manager
 
 A modern, responsive task management application built with Next.js, TypeScript, and Tailwind CSS.
@@ -57,3 +58,6 @@ Feel free to submit issues and pull requests.
 ## License
 
 MIT License 
+=======
+# TASKMANAGER
+>>>>>>> a31940fe3a22516a58bfd6e3a76678e6969cd67b
