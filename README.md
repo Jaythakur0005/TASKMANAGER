@@ -1,63 +1,19 @@
-<<<<<<< HEAD
-# Task Manager
+# TASKMANAGER
 
-A modern, responsive task management application built with Next.js, TypeScript, and Tailwind CSS.
+A simple task manager app where you can add your daily tasks.
 
 ## Features
-
-- Add, edit, and delete tasks
+- Add new tasks
+- Delete tasks
 - Mark tasks as completed
-- Set priority levels (Low, Medium, High)
-- Drag and drop to reorder tasks
-- Dark mode support
-- Responsive design
-- Local storage persistence
-- Beautiful UI with priority-based color coding
+- Set priority (Low, Medium, High)
+- Dark mode
+- Drag and drop tasks to reorder
 
-## Tech Stack
-
-- Next.js 14
-- TypeScript
-- Tailwind CSS
-- React Beautiful DND
-- React Icons
-
-## Getting Started
-
-1. Clone the repository:
-```bash
-git clone [your-repo-url]
-```
-
-2. Install dependencies:
+## How to run locally
 ```bash
 npm install
-```
-
-3. Run the development server:
-```bash
 npm run dev
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-## Usage
-
-- Add tasks using the input field at the top
-- Set priority levels when creating or editing tasks
-- Click the checkbox to mark tasks as complete
-- Use the edit icon to modify tasks
-- Use the delete icon to remove tasks
-- Drag and drop to reorder tasks
-- Toggle dark mode using the button in the bottom right
-
-## Contributing
-
-Feel free to submit issues and pull requests.
-
-## License
-
-MIT License 
-=======
-# TASKMANAGER
->>>>>>> a31940fe3a22516a58bfd6e3a76678e6969cd67b
+Open [http://localhost:3000](http://localhost:3000) in your browser.
