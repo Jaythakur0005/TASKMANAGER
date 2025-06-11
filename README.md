@@ -8,7 +8,7 @@ A simple task manager app where you can add your daily tasks.
 - Mark tasks as completed
 - Set priority (Low, Medium, High)
 - Dark mode
-- Drag and drop tasks to reorder
+
 
 ## How to run locally
 ```bash
